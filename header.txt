@@ -1,1 +1,2 @@
-Ce fichier texte simule un header
+Ce fichier texte simule un header d'un projet C
+
