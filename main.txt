@@ -1,1 +1,3 @@
 Ce fichier texte simule le fichier main d'un projet C
+
+Il pourrait contenir le point d'entrée du programme
