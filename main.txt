@@ -1,0 +1,1 @@
+Ce fichier texte simule le fichier main d'un projet C
